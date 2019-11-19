@@ -15,7 +15,7 @@ This script allowed you to make account with fake email address without limits.
 - Create a new pull request for this branch.
 
 ### License
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
 
 ### Credits
 [Anh Jesslyn](https://github.com/anhjesslyn)
