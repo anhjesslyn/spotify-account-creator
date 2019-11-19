@@ -1,5 +1,6 @@
 # Spotify Account Creator
 ![license](https://img.shields.io/github/license/anhjesslyn/spotify-account-creator?color=purple&logo=apache)
+![Version](https://img.shields.io/badge/version-2.0-brightgreen.svg?style=flat)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/sryjesslyn)
 
 - Requirements:<br>
